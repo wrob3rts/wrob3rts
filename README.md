@@ -1,4 +1,4 @@
-##About Me:
+About Me:
 
 I'm currently working on and learning C/C++
 I can code Java, Python, and C# fairly proficiently
