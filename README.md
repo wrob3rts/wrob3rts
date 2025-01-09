@@ -9,5 +9,3 @@ Pronouns : He/Him
 
 If you need to reach me you can email me at : willenderroberts@gmail.com\
 Apologies for the little to no amount of code I've uploaded
-
-Current Project: https://wrob3rts.github.io
