@@ -1,5 +1,9 @@
 ## About Me:
 \
+
+CU Boulder ECEN 2029 (Hopefully)
+Sko Buffs!
+
 I'm current working on teaching myself Web Development\
 I can code in Java, Python, C#, and C/C++ fairly proficiently\
 I can sort of code in Kotlin, Ruby, and Rust
