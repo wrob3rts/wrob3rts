@@ -1,6 +1,6 @@
 ## About Me:
-\
 
+\
 CU Boulder ECEN 2029 (Hopefully)
 Sko Buffs!
 
