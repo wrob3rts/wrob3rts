@@ -1,7 +1,7 @@
 ## About Me:
 
 \
-CU Boulder ECEN 2029 (Hopefully)
+CU Boulder ECEN 2029
 Sko Buffs!
 
 I'm current working on teaching myself Web Development\
